@@ -1,2 +1,6 @@
-# chuck-norris-quotes-app
-Chuck Norris Quotes App
+# chuck-quotes-app
+Random Chuck Norris Quotes App
+
+Chuck Norris IO
+
+https://api.chucknorris.io/
